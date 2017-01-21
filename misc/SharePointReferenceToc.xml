@@ -50,7 +50,7 @@
 				<Item text="IWebPartPropertiesMetadata" url="spfx/sp-webpart-base/interface/iwebpartpropertiesmetadata" SEODescription=""/>
 			</Item>
 		</Item>
-		<Item text="sp-core-library" url="spfx/sp-core-library-module" SEODescription="">
+		<Item text="sp-core-library" url="spfx/sp-core-library" SEODescription="">
 			<Item text="Classes" url="spfx/sp-core-library" SEODescription="">
 				<Item text="Environment" url="spfx/sp-core-library/class/environment" SEODescription=""/>
 				<Item text="Guid" url="spfx/sp-core-library/class/guid" SEODescription=""/>
