@@ -150,19 +150,12 @@
 				<Item text="WeakSetConstructor" url="spfx/es6-collections.api/interface/weaksetconstructor" SEODescription=""/>
 			</Item>
 		</Item>
-		<Item text="es6-promise" url="spfx/es6-promise-module" SEODescription="">
-			<Item text="Interfaces" url="spfx/es6-promise" SEODescription="">
-				<Item text="ForEachable" url="spfx/es6-promise.api/interface/foreachable" SEODescription=""/>
-				<Item text="Iterator" url="spfx/es6-promise.api/interface/iterator" SEODescription=""/>
-				<Item text="IteratorResult" url="spfx/es6-promise.api/interface/iteratorresult" SEODescription=""/>
-				<Item text="Map" url="spfx/es6-promise.api/interface/map" SEODescription=""/>
-				<Item text="MapConstructor" url="spfx/es6-promise.api/interface/mapconstructor" SEODescription=""/>
-				<Item text="Set" url="spfx/es6-promise.api/interface/set" SEODescription=""/>
-				<Item text="SetConstructor" url="spfx/es6-promise.api/interface/setconstructor" SEODescription=""/>
-				<Item text="WeakMap" url="spfx/es6-promise.api/interface/weakmap" SEODescription=""/>
-				<Item text="WeakMapConstructor" url="spfx/es6-promise.api/interface/weakmapconstructor" SEODescription=""/>
-				<Item text="WeakSet" url="spfx/es6-promise.api/interface/weakset" SEODescription=""/>
-				<Item text="WeakSetConstructor" url="spfx/es6-promise.api/interface/weaksetconstructor" SEODescription=""/>
+		<Item text="es6-promise" url="spdx/es6-promise-module" SEODescription="">
+			<Item text="Classes" url="spdx/es6-promise" SEODescription="">
+				<Item text="Promise" url="spdx/es6-promise.api/class/promise" SEODescription=""/>
+			</Item>
+			<Item text="Interfaces" url="spdx/es6-promise" SEODescription="">
+				<Item text="Thenable" url="spdx/es6-promise.api/interface/thenable" SEODescription=""/>
 			</Item>
 		</Item>
 		<Item text="whatwg-fetch" url="spfx/whatwg-fetch-module" SEODescription="">
