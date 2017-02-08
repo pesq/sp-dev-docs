@@ -10,7 +10,7 @@
 				<Item text="PropertyPaneButtonType" url="spfx/sp-webpart-base/enum/propertypanebuttontype" SEODescription=""/>
 				<Item text="PropertyPaneFieldType" url="spfx/sp-webpart-base/enum/propertypanefieldtype" SEODescription=""/>
 			</Item>
-			<Item text="Functions" url="spfx/sp-webpart-base/functions" SEODescription="">
+			<Item text="Functions" url="spfx/sp-webpart-base/function" SEODescription="">
 				<Item text="PropertyPaneButton" url="spfx/sp-webpart-base/function/propertypanebutton" SEODescription=""/>
 				<Item text="PropertyPaneCheckbox" url="spfx/sp-webpart-base/function/propertypanecheckbox" SEODescription=""/>
 				<Item text="PropertyPaneChoiceGroup" url="spfx/sp-webpart-base/function/propertypanechoicegroup" SEODescription=""/>
@@ -22,7 +22,7 @@
 				<Item text="PropertyPaneTextField" url="spfx/sp-webpart-base/function/propertypanetextfield" SEODescription=""/>
 				<Item text="PropertyPaneToggle" url="spfx/sp-webpart-base/function/propertypanetoggle" SEODescription=""/>
 			</Item>
-			<Item text="Interfaces" url="spfx/sp-webpart-base" SEODescription="">
+			<Item text="Interfaces" url="spfx/sp-webpart-base/interface" SEODescription="">
 				<Item text="IClientSideWebPartStatusRenderer" url="spfx/sp-webpart-base/interface/iclientsidewebpartstatusrenderer" SEODescription=""/>
 				<Item text="IPlaceholderProps" url="spfx/sp-webpart-base/interface/iplaceholderprops" SEODescription=""/>
 				<Item text="IPlaceholderSpinnerProps" url="spfx/sp-webpart-base/interface/iplaceholderspinnerprops" SEODescription=""/>
