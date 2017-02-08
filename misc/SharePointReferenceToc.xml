@@ -50,8 +50,8 @@
 				<Item text="IWebPartPropertiesMetadata" url="spfx/sp-webpart-base/interface/iwebpartpropertiesmetadata" SEODescription=""/>
 			</Item>
 		</Item>
-		<Item text="sp-core-library" url="spfx/sp-core-library-module" SEODescription="">
-			<Item text="Classes" url="spfx/sp-core-library" SEODescription="">
+		<Item text="sp-core-library" url="spfx/sp-core-library" SEODescription="">
+			<Item text="Classes" url="spfx/sp-core-library/class" SEODescription="">
 				<Item text="Environment" url="spfx/sp-core-library/class/environment" SEODescription=""/>
 				<Item text="Guid" url="spfx/sp-core-library/class/guid" SEODescription=""/>
 				<Item text="Log" url="spfx/sp-core-library/class/log" SEODescription=""/>
@@ -64,23 +64,23 @@
 				<Item text="Validate" url="spfx/sp-core-library/class/validate" SEODescription=""/>
 				<Item text="Version" url="spfx/sp-core-library/class/version" SEODescription=""/>
 			</Item>
-			<Item text="Enumerations" url="spfx/sp-core-library" SEODescription="">
+			<Item text="Enumerations" url="spfx/sp-core-library/enum" SEODescription="">
 				<Item text="DisplayMode" url="spfx/sp-core-library/enum/displaymode" SEODescription=""/>
 				<Item text="EnvironmentType" url="spfx/sp-core-library/enum/environmenttype" SEODescription=""/>
 			</Item>
-			<Item text="Interfaces" url="spfx/sp-core-library" SEODescription="">
+			<Item text="Interfaces" url="spfx/sp-core-library/interface" SEODescription="">
 				<Item text="IRandomNumberGenerator" url="spfx/sp-core-library/interface/irandomnumbergenerator" SEODescription=""/>
 				<Item text="IServiceCollection" url="spfx/sp-core-library/interface/iservicecollection" SEODescription=""/>
 				<Item text="ITimeProvider" url="spfx/sp-core-library/interface/itimeprovider" SEODescription=""/>
 			</Item>
 		</Item>
-		<Item text="sp-component-base" url="spfx/sp-component-base-module" SEODescription="">
-			<Item text="Interfaces" url="spfx/sp-component-base" SEODescription="">
+		<Item text="sp-component-base" url="spfx/sp-component-base" SEODescription="">
+			<Item text="Interfaces" url="spfx/sp-component-base/interface" SEODescription="">
 				<Item text="IClientSideComponentContext" url="spfx/sp-component-base/interface/iclientsidecomponentcontext" SEODescription=""/>
 			</Item>
 		</Item>
-		<Item text="sp-http" url="spfx/sp-http-module" SEODescription="">
-			<Item text="Classes" url="spfx/sp-http" SEODescription="">
+		<Item text="sp-http" url="spfx/sp-http" SEODescription="">
+			<Item text="Classes" url="spfx/sp-http/class" SEODescription="">
 				<Item text="HttpClient" url="spfx/sp-http/class/httpclient" SEODescription=""/>
 				<Item text="HttpClientConfiguration" url="spfx/sp-http/class/httpclientconfiguration" SEODescription=""/>
 				<Item text="HttpClientConfigurations" url="spfx/sp-http/class/httpclientconfigurations" SEODescription=""/>
@@ -92,7 +92,7 @@
 				<Item text="SPHttpClientConfigurations" url="spfx/sp-http/class/sphttpclientconfigurations" SEODescription=""/>
 				<Item text="SPHttpClientResponse" url="spfx/sp-http/class/sphttpclientresponse" SEODescription=""/>
 			</Item>
-			<Item text="Interfaces" url="spfx/sp-http" SEODescription="">
+			<Item text="Interfaces" url="spfx/sp-http/interface" SEODescription="">
 				<Item text="IHttpClientConfiguration" url="spfx/sp-http/interface/ihttpclientconfiguration" SEODescription=""/>
 				<Item text="IHttpClientOptions" url="spfx/sp-http/interface/ihttpclientoptions" SEODescription=""/>
 				<Item text="ISPHttpClientCommonConfiguration" url="spfx/sp-http/interface/isphttpclientcommonconfiguration" SEODescription=""/>
@@ -100,17 +100,17 @@
 				<Item text="ISPHttpClientOptions" url="spfx/sp-http/interface/isphttpclientoptions" SEODescription=""/>
 			</Item>
 		</Item>
-		<Item text="sp-loader" url="spfx/sp-loader-module" SEODescription="">
-			<Item text="Classes" url="spfx/sp-loader" SEODescription="">
+		<Item text="sp-loader" url="spfx/sp-loader" SEODescription="">
+			<Item text="Classes" url="spfx/sp-loader/class" SEODescription="">
 				<Item text="SPComponentLoader" url="spfx/sp-loader/class/spcomponentloader" SEODescription=""/>
 			</Item>
-			<Item text="Interfaces" url="spfx/sp-loader" SEODescription="">
+			<Item text="Interfaces" url="spfx/sp-loader/interface" SEODescription="">
 				<Item text="ILoadScriptOptions" url="spfx/sp-loader/interface/iloadscriptoptions" SEODescription=""/>
 				<Item text="ISPComponentLoader" url="spfx/sp-loader/interface/ispcomponentloader" SEODescription=""/>
 			</Item>
 		</Item>
-		<Item text="sp-odata-types" url="spfx/sp-odata-types-module" SEODescription="">
-			<Item text="Interfaces" url="spfx/sp-odata-types" SEODescription="">
+		<Item text="sp-odata-types" url="spfx/sp-odata-types" SEODescription="">
+			<Item text="Interfaces" url="spfx/sp-odata-types/interface" SEODescription="">
 				<Item text="IODataBasePermission" url="spfx/sp-odata-types/interface/iodatabasepermission" SEODescription=""/>
 				<Item text="IODataChangeToken" url="spfx/sp-odata-types/interface/iodatachangetoken" SEODescription=""/>
 				<Item text="IODataContextWebInformation" url="spfx/sp-odata-types/interface/iodatacontextwebinformation" SEODescription=""/>
@@ -122,8 +122,8 @@
 				<Item text="IODataWeb" url="spfx/sp-odata-types/interface/iodataweb" SEODescription=""/>
 			</Item>
 		</Item>
-		<Item text="sp-page-context" url="spfx/sp-page-context-module" SEODescription="">
-			<Item text="Classes" url="spfx/sp-page-context" SEODescription="">
+		<Item text="sp-page-context" url="spfx/sp-page-context" SEODescription="">
+			<Item text="Classes" url="spfx/sp-page-context/class" SEODescription="">
 				<Item text="CultureInfo" url="spfx/sp-page-context/class/cultureinfo" SEODescription=""/>
 				<Item text="PageContext" url="spfx/sp-page-context/class/pagecontext" SEODescription=""/>
 				<Item text="SPList" url="spfx/sp-page-context/class/splist" SEODescription=""/>
@@ -136,8 +136,8 @@
 		</Item>
 		<Item text="horizontalline" url="/" IsSeparation="true" />
 		<Item text="External packages" url="spfx/external-packages" SEODescription=""/>
-		<Item text="es6-collections" url="spfx/es6-collections-module" SEODescription="">
-			<Item text="Interfaces" url="spfx/es6-collections" SEODescription="">
+		<Item text="es6-collections" url="spfx/es6-collections" SEODescription="">
+			<Item text="Interfaces" url="spfx/es6-collections/interface" SEODescription="">
 				<Item text="ForEachable" url="spfx/es6-collections.api/interface/foreachable" SEODescription=""/>
 				<Item text="Iterator" url="spfx/es6-collections.api/interface/iterator" SEODescription=""/>
 				<Item text="IteratorResult" url="spfx/es6-collections.api/interface/iteratorresult" SEODescription=""/>
@@ -151,22 +151,22 @@
 				<Item text="WeakSetConstructor" url="spfx/es6-collections.api/interface/weaksetconstructor" SEODescription=""/>
 			</Item>
 		</Item>
-		<Item text="es6-promise" url="spdx/es6-promise-module" SEODescription="">
-			<Item text="Classes" url="spdx/es6-promise" SEODescription="">
+		<Item text="es6-promise" url="spdx/es6-promise" SEODescription="">
+			<Item text="Classes" url="spdx/es6-promise/class" SEODescription="">
 				<Item text="Promise" url="spdx/es6-promise.api/class/promise" SEODescription=""/>
 			</Item>
-			<Item text="Interfaces" url="spdx/es6-promise" SEODescription="">
+			<Item text="Interfaces" url="spdx/es6-promise/interface" SEODescription="">
 				<Item text="Thenable" url="spdx/es6-promise.api/interface/thenable" SEODescription=""/>
 			</Item>
 		</Item>
-		<Item text="whatwg-fetch" url="spfx/whatwg-fetch-module" SEODescription="">
-			<Item text="Classes" url="spfx/whatwg-fetch" SEODescription="">
+		<Item text="whatwg-fetch" url="spfx/whatwg-fetch" SEODescription="">
+			<Item text="Classes" url="spfx/whatwg-fetch/class" SEODescription="">
 				<Item text="Body" url="spfx/whatwg-fetch.api/class/body" SEODescription=""/>
 				<Item text="Headers" url="spfx/whatwg-fetch.api/class/headers" SEODescription=""/>
 				<Item text="Request" url="spfx/whatwg-fetch.api/class/request" SEODescription=""/>
 				<Item text="Response" url="spfx/whatwg-fetch.api/class/response" SEODescription=""/>
 			</Item>
-			<Item text="Interfaces" url="spfx/whatwg-fetch" SEODescription="">
+			<Item text="Interfaces" url="spfx/whatwg-fetch/interface" SEODescription="">
 				<Item text="HeadersMap" url="spfx/whatwg-fetch.api/interface/headersmap" SEODescription=""/>
 				<Item text="RequestInit" url="spfx/whatwg-fetch.api/interface/requestinit" SEODescription=""/>
 				<Item text="ResponseInit" url="spfx/whatwg-fetch.api/interface/responseinit" SEODescription=""/>
